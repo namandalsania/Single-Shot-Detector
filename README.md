@@ -6,4 +6,4 @@ Colab:- https://colab.research.google.com/drive/18xjUfNZEgMDNhuTv0TPsp2gDZJSBuQF
 
 Dataset:- http://tacodataset.org/
 
-The above code is built for the purpose of my final year project.
+The above code is executed for the purpose of my final year project.
